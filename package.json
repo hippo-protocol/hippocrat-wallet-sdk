@@ -1,7 +1,7 @@
 {
   "name": "hippocrat-wallet-sdk",
   "type": "module",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Bitcoin, Hippocrat, DID and Data Wallet SDK for Node, Browser and Mobile",
   "repository": {
     "type": "git",
@@ -74,5 +74,6 @@
   "main": "./lib/cjs/index.cjs",
   "module": "./lib/esm/index.js",
   "types": "./lib/esm/index.d.ts",
-  "sideEffects": false
+  "sideEffects": false,
+  "license": "MIT"
 }
